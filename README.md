@@ -21,7 +21,10 @@
   ## License
   Copyright (c) nat.post. All rights reserved.
   Licensed under the [MIT](https://opensource.org/licenses/MIT) license. 
-  
+
+  ## Demo Video
+  A walkthrough video that demonstrates the functionality of the README generator is available here - [README Generator Demo](./assets/Team-Profile-Generator.mp4)
+
   ## How to Contribute
   Please feel free to send the feedback about the application or fork the repository and modify the code.
 
